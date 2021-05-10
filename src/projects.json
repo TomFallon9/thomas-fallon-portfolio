@@ -12,7 +12,7 @@
    {
        "id": 8,
        "title": "Surprise Me-al",
-       "description": "A user inputs a desired country/region and is given a random meal from that region. Or, the user may choose to receive a random meal from anywhere in the world. A user is given ingredients and directions for the meal, along with an image of the meal and a map of where it is from. A user may also choose to be given a random cocktail to go along with their meal.",
+       "description": "App that allows users to input a desired country/region and will be given a random meal from that region. User may choose to receive a random meal from anywhere in the world. After API call has been sent  user recieves given ingredients and directions for the meal, along with an image of the meal and a map of where it is from. A user may also choose to be given a random cocktail to go along with their meal.",
        "tech": "",
        "date": "December 2020",
        "gh-url": "https://github.com/TomFallon9/",
