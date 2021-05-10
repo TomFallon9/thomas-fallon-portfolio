@@ -12,7 +12,7 @@ function Contact() {
                 <Row>
                     <Col xs="6" sm="3">
                         <Card body className="text-center contact-cards shadow-sm hvr-underline-from-center2">
-                            <a href="mailto:estn@gmail.com">
+                            <a href="mailto:TomFallon9@gmail.com">
                             <i className="fa fa-envelope " aria-hidden="true"></i>
                             <CardText className="">Email</CardText>
                             </a>
