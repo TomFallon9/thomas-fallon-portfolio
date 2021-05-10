@@ -15,7 +15,7 @@
 Portfolio with my latest applications and projects 2021 
 
 
-<p><img src="images/astro.png"></p>
+<p><img src="image/astro.png"></p>
 
 
 
