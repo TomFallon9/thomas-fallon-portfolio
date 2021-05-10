@@ -15,7 +15,7 @@
 Portfolio with my latest applications and projects 2021 
 
 
-<p><img src="image/astro.png"></p>
+<p><img src="src/image/portfolio.png"></p>
 
 
 
@@ -24,8 +24,8 @@ Portfolio with my latest applications and projects 2021
 * [HTML](https://html.spec.whatwg.org/) - Markup language used to define the structure of webpage.
 * [CSS](https://www.w3schools.com/css/)
 * [JavaScript](https://www.w3schools.com/js/)
-* [React]
+* [React](https://reactjs.org)
 
 
 ## Live 
-[Portfolio]()
+[Portfolio](https://thomasfallon.herokuapp.com/)
