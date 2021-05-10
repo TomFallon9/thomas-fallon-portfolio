@@ -53,7 +53,7 @@
    {
        "id": 4,
        "title": "Weather-App",
-       "description": "I built a weather dashboard that runs in the browser and features dynamically updated HTML and CSS. I used the OpenWeather API and Moment Once a city has been entered it will save as an option for the future as well as display the 5 day forecast.",
+       "description": "Weather dashboard application that runs in the browser and features dynamically updated HTML and CSS. I used the OpenWeather API and Moment Once a city has been entered it will save as an option for the future as well as display the 5 day forecast.",
        "tech": "HTML, JQuery, OpenWeatherMap API, MomentJs,",
        "date": "April 2021",
        "gh-url": "https://github.com/TomFallon9/weather-fivedayforecast",
