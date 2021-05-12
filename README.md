@@ -21,7 +21,7 @@ Portfolio with my latest applications and projects 2021
 
 ## Built With
 
-* [HTML](https://html.spec.whatwg.org/) - Markup language used to define the structure of webpage.
+* [HTML](https://html.spec.whatwg.org/) 
 * [CSS](https://www.w3schools.com/css/)
 * [JavaScript](https://www.w3schools.com/js/)
 * [React](https://reactjs.org)
