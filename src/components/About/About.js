@@ -20,9 +20,9 @@ function About() {
                         <p>I'm a Software Developer. Graduated from the University of New Hampshire Coding Bootcamp, an intensive 24-week-long program dedicated to designing and building web applications. I learned HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express, Handlebars, and React.</p>
 
                         <p>My background in state government and records management has given me experience with consulting, data analytics and project work, but my real passion comes from tapping into my creative side. I enjoy problem-solving and bringing code to life for a great user experience!</p>
-                        <p> I'm a full-stack web developer. Attended the University of New Hampshire Coding Bootcamp, an intensive 24-week-long program dedicated to designing and building web applications. I learned HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express, Handlebars, and React.</p>
+                        
 
-                        <p>My background in state government and records management has given me experience with consulting, data analytics, and project work, but my real passion comes from tapping into my creative side. I enjoy problem-solving and bringing code to life for a great user experience!</p>
+                       
                     </Col>
                 </Row>
             </Container>
