@@ -17,9 +17,11 @@ function About() {
                     <Col>
                         <h2 className="hello-txt">Hello! My name is Thomas Fallon.</h2>
 
-                        <p>I'm a Software Developer. Graduated from the University of New Hampshire Coding Bootcamp, an intensive 24-week-long program dedicated to designing and building web applications. I learned HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express, Handlebars, and React.</p>
+                        <p>
+Frontend Developer with a passion for responsive applications utilizing clean, polished, user interface and design. Proven leader with experience using agile development practices to create full-stack apps with a remote team of developers. My background in state government and records management has given me experience with consulting, data analytics, and project work, but my real passion comes from tapping into my creative side. I enjoy problem-solving bringing code to life for a great user experience. Interested in working with companies to help build and design innovative software products.
+</p>
 
-                        <p>My background in state government and records management has given me experience with consulting, data analytics and project work, but my real passion comes from tapping into my creative side. I enjoy problem-solving and bringing code to life for a great user experience!</p>
+                       
                         
 
                        

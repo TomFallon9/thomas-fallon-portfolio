@@ -15,9 +15,17 @@ function Project(props) {
                         <CardText className="project-descriptions">{props.description}</CardText>
                         <p className="project-tech">
                             <small>{props.tech}</small>
+                            <br>
+
+                            </br>
+                          <>
+                            <small>{props.date}</small>
+                            </>
+                            
                         </p>
                         <p>
-                            <small>{props.date}</small>
+                        <small>{props.date}</small>
+                          
                         </p>
                         <a className="project-links" href={props["deployed-url"]} target="_blank" rel="noopener noreferrer">
                             <i className="fa fa-2x fa-globe mr-4" aria-hidden="true"></i>

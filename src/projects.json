@@ -4,7 +4,7 @@
        "title": "DND Character Creator Express",
        "description": "Application to automatically generate and save first-level Dungeons and Dragons characters. Uses Node, Express, Handlebars, PostgreSQL, and Momentjs",
        "tech": "Postgres, Express, Node.js, Axios, Bcrypt, JavaScript Client-sessions, deployed with Heroku, MVC file structure",
-       "date": "February 2021",
+       "date": "Role: Front-End Lead - UI/UX Login and Landing Pge",
        "gh-url": "https://github.com/TomFallon9/dnd-quick-character-creator",
        "deployed-url": "https://character-creator-express.herokuapp.com/",
        "image": "images/dnd.gif"
@@ -12,9 +12,9 @@
    {
        "id": 8,
        "title": "Surprise Me-al",
-       "description": "App that allows users to input a desired country/region and will be given a random meal from that region. User may choose to receive a random meal from anywhere in the world. After API call has been sent  user recieves given ingredients and directions for the meal, along with an image of the meal and a map of where it is from. A user may also choose to be given a random cocktail to go along with their meal.",
-       "tech": "",
-       "date": "December 2020",
+       "description": "App that allows users to input a desired country/region and will be given a random meal from that region. User can save meals in favorites for future reference",
+       "tech": "HTML, CSS, API, jQuery, Bootstrap, theMealDB, the cocktailDB",
+       "date": "Role: Front-End Animations - Fetch API for Beverage Section",
        "gh-url": "https://github.com/TomFallon9/surprise-meal",
        "deployed-url": "https://tomfallon9.github.io/surprise-meal/",
        "image": "images/meal.png"
@@ -23,8 +23,8 @@
        "id": 7,
        "title": "Employee Directory",
        "description": "An app built with React that allows users to quickly access their employee contact information.",
-       "tech": "React, Axios, Moment.js, Materialize CSS",
-       "date": "April 2020",
+       "tech": "React, Axios, Moment.js, Materialize, CSS",
+       "date": "Role: Solo Author",
        "gh-url": "https://github.com/TomFallon9/Employee-Directory",
        "deployed-url": "https://employee-directory2345.herokuapp.com/",
        "image": "images/employee.png"
@@ -34,7 +34,7 @@
     "title": "Fitness Tracker",
     "description": "A fitness app that allows users to create, view and track daily workouts. The user is able to log multiple exercises in a given day and also go back and update the workout. The user may track the name, type, weight, sets, reps and duration of each exercise. Cardiovascular exercises show the distance traveled in miles.",
     "tech": "JavaScript, Express, Node, MongoDb, Mongoose",
-    "date": "April 2021",
+    "date": "Role: Solo Author",
     "gh-url": "https://github.com/TomFallon9/Fitness-Tracker",
     "deployed-url": "https://fitness-tracker001.herokuapp.com/",
     "image": "images/fitness.png"
@@ -44,28 +44,19 @@
        "id": 5,
        "title": "Note Taker",
        "description": "This application can be used to write, save, and delete notes and uses an express backend and save and retrieve note data from a JSON file. Can be used to organize, update, and when done, delete notes when needed.",
-       "tech": "Express, Node, Html, CSS",
-       "date": "January 2021",
+       "tech": "Express, Node, HTML, CSS",
+       "date": "Role: Solo Author",
        "gh-url": "https://github.com/TomFallon9/note-taker",
        "deployed-url":"https://note-taker1001.herokuapp.com/",
        "image": "images/note.png"
    },
-   {
-       "id": 4,
-       "title": "Weather-App",
-       "description": "Weather dashboard application that runs in the browser and features dynamically updated HTML and CSS. I used the OpenWeather API and Moment Once a city has been entered it will save as an option for the future as well as display the 5 day forecast.",
-       "tech": "HTML, JQuery, OpenWeatherMap API, MomentJs,",
-       "date": "April 2021",
-       "gh-url": "https://github.com/TomFallon9/weather-fivedayforecast",
-       "deployed-url": "https://tomfallon9.github.io/Weather-FiveDayForecast/",
-       "image": "images/weather.png"
-   },
+  
    {
        "id": 3,
        "title": "Daily Planner",
        "description": "A calendar application that allows users to save events for each hour of the day.",
-       "tech": "HTML, CSS, jQuery, Moment.js, localStorage",
-       "date": "January 2021",
+       "tech": "HTML, CSS, JavaScript, jQuery, Moment.js, localStorage",
+       "date": "Role: Solo Author",
        "gh-url": "https://github.com/TomFallon9/Daily-Planner",
        "deployed-url": "https://tomfallon9.github.io/daily-planner/",
        "image": "images/planner.png"
@@ -75,7 +66,7 @@
        "title": "Code Quiz",
        "description": "A timed multiple-choice quiz on JavaScript fundamentals.",
        "tech": "HTML, CSS, JavaScript, localStorage",
-       "date": " 2020",
+       "date": "Role: Solo Author",
        "gh-url": "https://github.com/TomFallon9/code-quiz",
        "deployed-url": "https://tomfallon9.github.io/code-quiz/",
        "image": "images/code.png"
@@ -85,7 +76,7 @@
        "title": "Password Generator",
        "description": "A random password generator based on user-specified length and criteria.",
        "tech": "HTML, CSS, JavaScript",
-       "date": " 2020",
+       "date": " Role: Solo Author",
        "gh-url": "https://github.com/TomFallon9/Password-Generator",
        "deployed-url": "https://tomfallon9.github.io/password-generator/",
        "image": "images/password.png"
