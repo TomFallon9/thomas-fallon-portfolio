@@ -43,7 +43,7 @@
    {
        "id": 5,
        "title": "Note Taker",
-       "description": "This application can be used to write, save, and delete notes and uses an express backend and save and retrieve note data from a JSON file. Can be used to organize, update, and when done, delete notes when needed.",
+       "description": "Application to write, save, and delete notes with an express backend to save and retrieve note data from a JSON file. Organize, update, delete notes when needed.",
        "tech": "Express, Node, HTML, CSS",
        "date": "Role: Solo Author",
        "gh-url": "https://github.com/TomFallon9/note-taker",
