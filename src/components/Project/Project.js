@@ -18,14 +18,14 @@ function Project(props) {
                             <br>
 
                             </br>
-                          <>
-                            <small>{props.date}</small>
+                            <>
+                                <small>{props.date}</small>
                             </>
-                            
+
                         </p>
                         <p>
-                        <small>{props.date}</small>
-                          
+                            <small>{props.date}</small>
+
                         </p>
                         <a className="project-links" href={props["deployed-url"]} target="_blank" rel="noopener noreferrer">
                             <i className="fa fa-2x fa-globe mr-4" aria-hidden="true"></i>

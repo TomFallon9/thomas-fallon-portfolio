@@ -18,7 +18,7 @@ function About() {
                         <h2 className="hello-txt">Hello! My name is Thomas Fallon.</h2>
 
                         <p>
-Frontend Developer with a passion for responsive applications utilizing clean, polished, user interface and design. Proven leader using agile development practices to create full-stack apps with a remote team of developers. My background in state government and records management has given me experience with consulting, data analytics, and project work, but my real passion comes from tapping into my creative side. I enjoy problem-solving and bringing code to life for a great user experience. Interested in working with companies to help build and design innovative software products.
+Frontend Developer with a passion for responsive applications utilizing clean, polished, user interface and design. Proven leader using agile development practices to create full-stack apps with a remote team of developers. My background in state government and records management has given me experience with consulting, data analytics, and project work, but my real passion comes from tapping into my creative side. I enjoy problem-solving and bringing code to life for a great user experience. Interested in working together? Feel free to reach out to me at the contacts below! I take pride in my work, produce results, and strive to help companies build and design innovative software products.
 </p>
 
                        
