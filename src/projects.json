@@ -12,7 +12,7 @@
   {
     "id": 9,
     "title": "DND Character Creator Express",
-    "description": "Application to automatically generate and save first-level Dungeons and Dragons characters. Uses Node, Express, Handlebars, PostgreSQL, and Momentjs",
+    "description": "Application to automatically generate and save first-level Dungeons and Dragons characters.",
     "tech": "Postgres, Express, Node.js, Axios, Bcrypt, JavaScript Client-sessions, deployed with Heroku, MVC file structure",
     "date": "Role: Front-End Lead - UI/UX Login and Landing Page",
     "gh-url": "https://github.com/TomFallon9/dnd-quick-character-creator",
