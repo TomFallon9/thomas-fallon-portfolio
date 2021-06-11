@@ -16,7 +16,7 @@
     "tech": "Postgres, Express, Node.js, Axios, Bcrypt, JavaScript Client-sessions, deployed with Heroku, MVC file structure",
     "date": "Role: Front-End Lead - UI/UX Login and Landing Page",
     "gh-url": "https://github.com/TomFallon9/dnd-quick-character-creator",
-    "deployed-url": "https://character-creator-express.herokuapp.com/",
+    "deployed-url": "https://dnd-exp.herokuapp.com ",
     "image": "images/dnd.gif"
   },
   {
