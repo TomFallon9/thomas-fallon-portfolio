@@ -12,3 +12,10 @@
 .hello-txt {
    color: #ffffff;
 }
+
+.tom-headshot {
+   max-width: 223px;
+   position: relative;
+   top: 47px;
+   ;
+}

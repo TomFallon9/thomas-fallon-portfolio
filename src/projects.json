@@ -1,5 +1,22 @@
 [
   {
+    "id": 12,
+    "title": "DepositLink Pay",
+    "description": "Customized URL and  Instant Pay feature.",
+    "date": "Role: Front-End Lead",
+    "deployed-url": "https://demo.depositlink.com/pay/Mac-Jones",
+    "image": "images/dl-pay-mac.png"
+  },
+  {
+    "id": 11,
+    "title": "Depositlink Marketing Pages",
+    "description": "UI-UX HTML-Email for DL-Pay Marketing email for conferences that lead to many contracts & large company acquisitions.",
+    
+    "date": "Role: Solo Author",
+    "deployed-url": "https://link.inman.com/view/60be3d3bfce50c7330545fd5f0yj5.0/79945f71",
+    "image": "inman-email.png"
+  },
+  {
     "id": 10,
     "title": "DevSets",
     "description": "Social media app for web developers to share images of users remote workspace.",
@@ -18,57 +35,10 @@
     "gh-url": "https://github.com/TomFallon9/dnd-quick-character-creator",
     "deployed-url": "https://dnd-exp.herokuapp.com ",
     "image": "images/dnd.gif"
-  },
-  {
-    "id": 8,
-    "title": "Surprise Me-al",
-    "description": "App that allows users to input a desired country/region and will be given a random meal from that region. User can save meals in favorites for future reference",
-    "tech": "HTML, CSS, API, jQuery, Bootstrap, theMealDB, the cocktailDB",
-    "date": "Role: Front-End Animations - Fetch API for Beverage Section",
-    "gh-url": "https://github.com/TomFallon9/surprise-meal",
-    "deployed-url": "https://tomfallon9.github.io/surprise-meal/",
-    "image": "images/meal.png"
-  },
-  {
-    "id": 7,
-    "title": "Employee Directory",
-    "description": "An app built with React that allows users to quickly access their employee contact information.",
-    "tech": "React, Axios, Moment.js, Materialize, CSS",
-    "date": "Role: Solo Author",
-    "gh-url": "https://github.com/TomFallon9/Employee-Directory",
-    "deployed-url": "https://employee-directory2345.herokuapp.com/",
-    "image": "images/employee.png"
-  },
-  {
-    "id": 6,
-    "title": "Fitness Tracker",
-    "description": "A fitness app that allows users to create, view and track daily workouts. The user is able to log multiple exercises in a given day and also go back and update the workout. The user may track the name, type, weight, sets, reps and duration of each exercise. Cardiovascular exercises show the distance traveled in miles.",
-    "tech": "JavaScript, Express, Node, MongoDb, Mongoose",
-    "date": "Role: Solo Author",
-    "gh-url": "https://github.com/TomFallon9/Fitness-Tracker",
-    "deployed-url": "https://fitness-tracker001.herokuapp.com/",
-    "image": "images/fitness.png"
-  },
-
-  {
-    "id": 5,
-    "title": "Note Taker",
-    "description": "Application to write, save, and delete notes with an express backend to save and retrieve note data from a JSON file. Organize, update, delete notes when needed.",
-    "tech": "Express, Node, HTML, CSS",
-    "date": "Role: Solo Author",
-    "gh-url": "https://github.com/TomFallon9/note-taker",
-    "deployed-url": "https://note-taker1001.herokuapp.com/",
-    "image": "images/note.png"
-  },
-
-  {
-    "id": 3,
-    "title": "Daily Planner",
-    "description": "A calendar application that allows users to save events for each hour of the day.",
-    "tech": "HTML, CSS, JavaScript, jQuery, Moment.js, localStorage",
-    "date": "Role: Solo Author",
-    "gh-url": "https://github.com/TomFallon9/Daily-Planner",
-    "deployed-url": "https://tomfallon9.github.io/daily-planner/",
-    "image": "images/planner.png"
   }
+
+ 
+
+
+ 
 ]

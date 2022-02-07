@@ -1,4 +1,4 @@
-  
+
 import React from 'react';
 import { Container, Row, Col } from 'reactstrap';
 import './About.css'
@@ -12,19 +12,21 @@ function About() {
                 </Row>
                 <Row>
                     <Col xs="12" sm="5" md="4" lg="3" className="text-center">
-                        <img src="/images/head.png" alt="profile" className="image-fluid mr-md-4 mb-4 rounded shadow-sm float-md-left"/>
+                        <img src="/images/head.jpg" alt="profile" className="tom-headshot image-fluid mr-md-4 mb-4 rounded shadow-sm float-md-left" />
                     </Col>
                     <Col>
-                        <h2 className="hello-txt">Hello! My name is Thomas Fallon.</h2>
+                        <h2 className="hello-txt">Hello! My name is Thomas.</h2>
 
                         <p>
-Frontend Developer with a passion for responsive applications utilizing clean, polished, user interface and design. Proven leader using agile development practices to create full-stack apps with a remote team of developers. My background in state government and records management has given me experience with consulting, data analytics, and project work, but my real passion comes from tapping into my creative side. I enjoy problem-solving and bringing code to life for a great user experience. Interested in working together? Feel free to reach out to me at the contacts below! I take pride in my work, produce results, and strive to help companies build and design innovative software products.
-</p>
+                            I am an experienced Frontend Developer with a passion for responsive applications utilizing clean, polished, user interface and design. Focused on being a valuable part of any team I am on and believe in the team rising together.If one portion of the team needs help with a task, I have no issue jumping in to assist on anything required. Proven leader incorporating agile development methodologies with remote/hybrid teams. Responsibilities include collaborating with design teams, back-end engineers and product owners, by turning mocks and ideas into live features/products at DepositLink.
 
-                       
-                        
+                            Reliable Front-End Lead at a fast-growing, cutting-edge SAAS (FinTech) start-up. Responsible for scaling the product's UI/UX top to bottom, assigning tasks and managing solo projects throughout the full development life cycle to production.
+                        </p>
 
-                       
+
+
+
+
                     </Col>
                 </Row>
             </Container>
