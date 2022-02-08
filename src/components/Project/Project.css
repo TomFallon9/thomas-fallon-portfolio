@@ -7,6 +7,7 @@
 
 .card-imgs {
    border: 1px solid #eee;
+   box-shadow: 0px 2px 15px rgb(54, 255, 71);
 }
 
 .card-title {
