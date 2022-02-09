@@ -11,6 +11,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 function App() {
   return (
     <Router>
+    
       <Header>
         <NavLinks>
           <Route exact path="/about" component={About} />
@@ -23,6 +24,7 @@ function App() {
       <Portfolio />
       <Contact />
       <Footer />
+  
     </Router>
   );
 }
