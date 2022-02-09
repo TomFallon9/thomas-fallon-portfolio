@@ -1,9 +1,19 @@
 [
   {
+    "id": 13,
+    "title": "DepositLink",
+    "description": "UI/UX Overhaul 2021",
+    "date": "Role: Front-End Lead, Responsible for updating look and feel of site while keeping the app user-friendly for a smooth transition with our existing customers",
+    "gh-url": "https://github.com/TomFallon9",
+    "deployed-url": "https://demo.depositlink.com",
+    "image": "images/dl-home.png"
+  },
+  {
     "id": 12,
     "title": "DepositLink Pay",
     "description": "Customized URL and  Instant Pay feature.",
     "date": "Role: Front-End Lead",
+    "gh-url": "https://github.com/TomFallon9",
     "deployed-url": "https://demo.depositlink.com/pay/Mac-Jones",
     "image": "images/dl-pay-mac.png"
   },
@@ -13,6 +23,7 @@
     "description": "UI-UX HTML-Email for DL-Pay Marketing email for conferences that lead to many contracts & large company acquisitions.",
     
     "date": "Role: Solo Author",
+    "gh-url": "https://github.com/TomFallon9",
     "deployed-url": "https://link.inman.com/view/60be3d3bfce50c7330545fd5f0yj5.0/79945f71",
     "image": "images/inman-email.png"
   },

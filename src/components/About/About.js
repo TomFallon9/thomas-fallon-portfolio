@@ -13,6 +13,8 @@ function About() {
                 <Row>
                     <Col xs="12" sm="5" md="4" lg="3" className="text-center">
                         <img src="/images/head.jpg" alt="profile" className="tom-headshot image-fluid mr-md-4 mb-4 rounded shadow-sm float-md-left" />
+                        
+
                     </Col>
                     <Col>
                         <h2 className="hello-txt">Hello! My name is Thomas.</h2>
@@ -22,6 +24,8 @@ function About() {
 
                             Reliable Front-End Lead at a fast-growing, cutting-edge SAAS (FinTech) start-up. Responsible for scaling the product's UI/UX top to bottom, assigning tasks and managing solo projects throughout the full development life cycle to production.
                         </p>
+
+
 
 
 
