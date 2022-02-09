@@ -16,6 +16,12 @@
 .tom-headshot {
    max-width: 223px;
    position: relative;
-   top: 47px;
-   ;
+   top: 16px;
+
+   @media (max-width: 767px) {
+      text-align: center;
+      top: 47px;
+    }
+  
+   
 }
