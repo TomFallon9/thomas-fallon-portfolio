@@ -7,19 +7,30 @@ import Portfolio from './components/Portfolio/Portfolio';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
 import { BrowserRouter as Router, Route } from "react-router-dom";
+import PlaySound from './components/PlaySound';
+
+
 
 function App() {
   return (
+    
     <Router>
+      <PlaySound/>
+
+   
     
       <Header>
+    
         <NavLinks>
+        
           <Route exact path="/about" component={About} />
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
         </NavLinks>
       </Header>
       <Home />
+      
+      
       <About />
       <Portfolio />
       <Contact />
